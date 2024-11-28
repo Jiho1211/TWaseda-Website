@@ -32,7 +32,7 @@ input, textarea{ border-bottom-width: 1px; }
     width: 84px; text-align: center; padding: 27px 0px 27px 8px; margin-top: -42px; margin-left: -42px; background: #fff; 
     border-radius: 50%; -moz-border-radius: 50%; -webkit-border-radius: 50%; }
 .gdlr-core-tab-item .gdlr-core-tab-item-wrap{ overflow: hidden; }
-.gdlr-core-tab-item .gdlr-core-tab-item-image-background{ display: block; width: 100%; height: 100%; background-size: cover;a background-position: center; }
+.gdlr-core-tab-item .gdlr-core-tab-item-image-background{ display: block; width: 100%; height: 100%; background-size: cover; background-position: center; }
 
 .gdlr-core-blockquote-item .gdlr-core-blockquote-item-content{ font-style: normal; }
 .gdlr-core-blockquote-item .gdlr-core-blockquote-item-author{ font-style: normal; }
@@ -100,7 +100,7 @@ input, textarea{ border-bottom-width: 1px; }
 .gdlr-core-blog-widget .gdlr-core-blog-thumbnail{ max-width: 80px;
     border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; }
 .gdlr-core-blog-widget .gdlr-core-blog-info-wrapper{ margin-bottom: 6px; }
-.gdlr-core-blog-widget .gdlr-core-blog-title{ margin-bottom 0px; }
+.gdlr-core-blog-widget .gdlr-core-blog-title{ margin-bottom: 0px; }
 
 .gdlr-core-blog-grid.gdlr-core-style-4 .gdlr-core-blog-grid-top-info .gdlr-core-blog-info-date,
 .gdlr-core-blog-grid.gdlr-core-style-4 .gdlr-core-blog-grid-top-info .gdlr-core-blog-info-tag{ font-size: 14px; font-weight: normal; letter-spacing: 1px; }
